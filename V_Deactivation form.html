@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deactivation Form</title>
+  <style>
+        #form{
+            border: 2px solid black;
+            border-radius: 25px;
+            text-align: center;
+            width: 25%;
+            margin-top: 20%;
+            margin-left: 35%;
+        }
+        label{
+            margin: 4px;
+            width: 100px;
+            display: inline-block;
+        }
+        input{
+            margin: 10px;
+        }
+  </style>
+</head>
+<body>
+    <div id="form">
+        <h1>Deactivation Form</h1>
+        <form action="deactivation" method="post" style="line-height: 20px;">
+            <input type="hidden" name="deactivation_token" value="deactivation_token">
+            <label for="username">Username:</label>
+            <input type="text" name="username" id="username"><br>
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password"><br>
+            <input type="submit" value="Deactivate">
+            <input type="reset">
+        </form>
+    </div>
+</body>
+</html>
