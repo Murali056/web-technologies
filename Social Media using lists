@@ -1,0 +1,53 @@
+
+    <head>
+        <title>Social Media</title>
+    </head>
+    <body style="background-color: aliceblue;border: 3px solid;">
+    <h1 style="text-align: center;background-color:slategray;">Social Media Network</h1>
+    <ol>
+        <li style="font-family: cursive;">Whatsapp</li>
+        <li style="font-family: cursive;">Facwebook</li>
+        <li style="font-family: cursive;">Twitter</li>
+        <li style="font-family: cursive;">Instagram</li>
+        <li style="font-family: cursive;">snapchat</li>
+        <li style="font-family: cursive;">youtube</li>
+    </ol>
+    <h1 style="text-align: center;background-color:skyblue;">Features:</h1>
+    <h2 style="color:green;">Whatsapp</h2>
+    <ul>
+        <li style="font-family:Franklin Gothic Medium;">Instant Messaging</li>
+        <li style="font-family: Franklin Gothic Medium;">Voice and video calls</li>
+        <li style="font-family: Franklin Gothic Medium;">End-to-End Encryption</li>
+        <li style="font-family: Franklin Gothic Medium;">sharing videos and images</li>
+        <li style="font-family: Franklin Gothic Medium;">status updates</li>
+        <li style="font-family: Franklin Gothic Medium;">group chats:</li>
+    </ul>
+    <h2 style="color: blue;">Facebook</h2>
+    <ul>
+        <li style="font-family:Franklin Gothic Medium;">posts</li>
+        <li style="font-family: Franklin Gothic Medium;">Messenger</li>
+        <li style="font-family: Franklin Gothic Medium;">Likes and Reactions</li>
+        <li style="font-family: Franklin Gothic Medium;"> groups</li>
+        <li style="font-family: Franklin Gothic Medium;">News feed:</li>
+    </ul>
+    <h2 style="color:maroon;">Instagram:</h2>
+    <ul>
+        <li style="font-family: Franklin Gothic Medium;">Stories updates</li>
+        <li style="font-family: Franklin Gothic Medium;">like and comment</li>
+        <li style="font-family: Franklin Gothic Medium;">reels</li>
+        <li style="font-family: Franklin Gothic Medium;">chats</li>
+        <li style="font-family: Franklin Gothic Medium;">posts</li>
+    </ul>
+    <h2 style="color: yellow;">Snapchat</h2>
+    <ul>
+        <li style="font-family: Franklin Gothic Medium;">sending snaps</li>
+        <li style="font-family: Franklin Gothic Medium;">view snaps</li>
+        <li style="font-family: Franklin Gothic Medium;">streaks</li>
+    </ul>
+    <h2 style="color: red;">Youtube</h2>
+    <ul>
+        <li style="font-family: Franklin Gothic Medium;" >channels</li>
+        <li style="font-family: Franklin Gothic Medium;">subcribes</li>
+    </ul>
+    </body>
+</html>
